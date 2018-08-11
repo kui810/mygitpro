@@ -1,4 +1,4 @@
-总用量 4
+﻿总用量 4
 -rw-r--r-- 1 root root 27 8月  11 10:34 README.md
 -rw-r--r-- 1 root root  0 8月  11 10:37 test.txt
 总用量 94
@@ -22,3 +22,9 @@ drwxr-xr-x  13 root root     0 8月  11 10:03 sys
 drwxrwxrwt.  4 root root  4096 8月  11 10:03 tmp
 drwxr-xr-x. 13 root root  4096 7月  16 19:25 usr
 drwxr-xr-x. 18 root root  4096 7月  16 20:05 var
+
+this is i add row text.
+2018-08-01
+测试数据
+
+my
