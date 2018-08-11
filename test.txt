@@ -1,0 +1,24 @@
+总用量 4
+-rw-r--r-- 1 root root 27 8月  11 10:34 README.md
+-rw-r--r-- 1 root root  0 8月  11 10:37 test.txt
+总用量 94
+dr-xr-xr-x.  2 root root  4096 7月  16 20:22 bin
+dr-xr-xr-x.  5 root root  1024 7月  16 19:26 boot
+drwxr-xr-x  19 root root  3620 8月  11 10:05 dev
+drwxr-xr-x. 70 root root  4096 8月  11 10:03 etc
+drwxr-xr-x.  5 root root  4096 7月  16 20:22 home
+dr-xr-xr-x.  8 root root  4096 7月  16 20:03 lib
+dr-xr-xr-x.  9 root root 12288 7月  16 20:29 lib64
+drwx------.  2 root root 16384 7月  16 19:25 lost+found
+drwxr-xr-x.  2 root root  4096 9月  23 2011 media
+drwxr-xr-x.  2 root root  4096 9月  23 2011 mnt
+drwxr-xr-x.  2 root root  4096 9月  23 2011 opt
+dr-xr-xr-x  95 root root     0 8月  11 10:03 proc
+dr-xr-x---.  6 root root  4096 8月  11 10:33 root
+dr-xr-xr-x.  2 root root 12288 7月  16 20:05 sbin
+drwxr-xr-x.  2 root root  4096 7月  16 19:25 selinux
+drwxr-xr-x.  2 root root  4096 9月  23 2011 srv
+drwxr-xr-x  13 root root     0 8月  11 10:03 sys
+drwxrwxrwt.  4 root root  4096 8月  11 10:03 tmp
+drwxr-xr-x. 13 root root  4096 7月  16 19:25 usr
+drwxr-xr-x. 18 root root  4096 7月  16 20:05 var
